@@ -12,7 +12,7 @@
         {
             "name": "Addresses",
             "path": "addresses.txt"
-        }
+        },
         {
             "name": "Medium Text",
             "path": "medium-length.txt"
